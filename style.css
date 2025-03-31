@@ -37,6 +37,9 @@ body {
   float: left;
   padding-left: 2cm;
   /* Add the styles here */
+  color: lightgray;
+  font-size:20px;
+  font-style: bold;
 }
 
 .profile_name .contact_info {
@@ -51,6 +54,10 @@ body {
   width:25px;
   margin-right: 10px;
   float:left;
+}
+
+.contact_info a {
+  color: lightgray;
 }
 
 /* Titles */
