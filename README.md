@@ -1,4 +1,4 @@
-# Repository for Github Pages personal site and portfolio
+# Repository for personal site and portfolio
 
 Highlighting:
 * skills
