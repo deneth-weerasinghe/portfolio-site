@@ -1,1 +1,6 @@
-# portfolio-site
+# Repository for Github Pages personal site and portfolio
+
+Highlighting:
+* skills
+* experience
+* projects (ongoing and completed)
